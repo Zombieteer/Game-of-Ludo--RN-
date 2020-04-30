@@ -1,0 +1,30 @@
+{
+    "position1": {
+        "top": "Dimensions.get('window').height / 1.775",
+        "left": "Dimensions.get('window').width / 2.55"
+    },
+    "position2": {
+        "top": "Dimensions.get('window').height / 1.89",
+        "left": "Dimensions.get('window').width / 2.55"
+    },
+    "position3": {
+        "top": "Dimensions.get('window').height / 2.024",
+        "left": "Dimensions.get('window').width / 2.55"
+    },
+    "position4": {
+        "top": "Dimensions.get('window').height / 1.775",
+        "left": "Dimensions.get('window').width / 2.55"
+    },
+    "position5": {
+        "top": "Dimensions.get('window').height / 1.775",
+        "left": "Dimensions.get('window').width / 2.55"
+    },
+    "position6": {
+        "top": "Dimensions.get('window').height / 1.775",
+        "left": "Dimensions.get('window').width / 2.55"
+    },
+    "position7": {
+        "top": "Dimensions.get('window').height / 1.775",
+        "left": "Dimensions.get('window').width / 2.55"
+    },
+}
